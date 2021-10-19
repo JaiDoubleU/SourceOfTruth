@@ -1,2 +1,68 @@
+.bg-primary {
+  background-color: #56bc2f; }
+
+.bg-secondary {
+  background-color: #A0EF6E; }
+
+.bg-tertiary {
+  background-color: #57535A; }
+
 .bg-info {
   background-color: #007DB8; }
+
+.bg-success {
+  background-color: #007DB8; }
+
+.bg-warning {
+  background-color: #007DB8; }
+
+.bg-error {
+  background-color: #007DB8; }
+
+.bg-white {
+  background-color: #FFFFFF; }
+
+.bg-grey1 {
+  background-color: #EFEFEF; }
+
+.bg-grey2 {
+  background-color: #DDDDDE; }
+
+.bg-grey3 {
+  background-color: #CDCBCE; }
+
+.bg-grey4 {
+  background-color: #BCBABD; }
+
+.bg-grey5 {
+  background-color: #ABA9AD; }
+
+.bg-grey6 {
+  background-color: #9A989C; }
+
+.bg-grey7 {
+  background-color: #89878C; }
+
+.bg-grey8 {
+  background-color: #79757B; }
+
+.bg-grey9 {
+  background-color: #68646B; }
+
+.bg-grey10 {
+  background-color: #57535A; }
+
+.bg-grey11 {
+  background-color: #4E4B51; }
+
+.bg-grey12 {
+  background-color: #3D3A3F; }
+
+.bg-grey13 {
+  background-color: #2C2A2D; }
+
+.bg-grey14 {
+  background-color: #1A191B; }
+
+.bg-black {
+  background-color: #000000; }

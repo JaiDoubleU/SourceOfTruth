@@ -1,5 +1,71 @@
-@import 'variables';
+@import 'variables'; 
 
+.bg-primary { 
+        background-color : $color-primary;
+}
+.bg-secondary {
+    background-color: $color-secondary;
+}
+.bg-tertiary {
+    background-color: $color-tertiary;
+}
 .bg-info {
+        background-color: $color-info;
+}
+.bg-success {
     background-color: $color-info;
+}
+.bg-warning {
+    background-color: $color-info;
+}
+.bg-error {
+    background-color: $color-info;
+}
+.bg-white { 
+        background-color: $color-white;
+}
+.bg-grey1 {
+    background-color: $color-grey1;
+}
+.bg-grey2 {
+    background-color: $color-grey2;
+}
+.bg-grey3 {
+    background-color: $color-grey3;
+}
+.bg-grey4 {
+    background-color: $color-grey4;
+}
+.bg-grey5 {
+    background-color: $color-grey5;
+}
+.bg-grey6 {
+    background-color: $color-grey6;
+}
+.bg-grey7 {
+    background-color: $color-grey7;
+}
+.bg-grey8 {
+    background-color: $color-grey8;
+}
+.bg-grey9 {
+    background-color: $color-grey9;
+}
+.bg-grey10 {
+    background-color: $color-grey10;
+}
+.bg-grey11 {
+    background-color: $color-grey11;
+}
+.bg-grey12 {
+    background-color: $color-grey12;
+}
+.bg-grey13 {
+    background-color: $color-grey13;
+}
+.bg-grey14 {
+    background-color: $color-grey14;
+}
+.bg-black {
+    background-color: $color-black;
 }
