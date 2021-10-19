@@ -1,0 +1,23 @@
+{
+  "name": "sourceoftruth",
+  "version": "1.0.0",
+  "description": "a test repo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node-sass scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiDoubleU/SourceOfTruth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiDoubleU/SourceOfTruth/issues"
+  },
+  "homepage": "https://github.com/JaiDoubleU/SourceOfTruth#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
