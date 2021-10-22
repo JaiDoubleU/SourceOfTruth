@@ -71,4 +71,8 @@ html, body {
   background-color: #57535A; }
 
 input {
+  background-color: #4E4B51;
+  border: none;
+  border-radius: 3px;
+  color: #FFFFFF;
   padding: 6px 12px; }

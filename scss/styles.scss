@@ -75,5 +75,9 @@ html, body {
 }
 
 input {
-    padding: $input-padding;
+     background-color: $color-grey11;
+     border: none;
+     border-radius: $default-border-radius;
+     color: $color-white;
+     padding: $input-padding;
 }
